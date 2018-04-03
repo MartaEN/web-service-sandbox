@@ -1,0 +1,4 @@
+servlets\InfoServlet.class
+templater\PageGenerator.class
+main\Main.class
+servlets\EntranceServlet.class
